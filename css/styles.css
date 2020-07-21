@@ -1,0 +1,25 @@
+.carousel-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+}
+
+img {
+    display: flex;
+    width: 75vw;
+    height: 50vh;
+
+}
